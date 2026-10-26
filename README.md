@@ -1,4 +1,4 @@
-# Chat Qwen com Streamlit e Groq
+# Chat Qwen com Streamlit, LangChain e Groq
 
 Aplicação de chat desenvolvida com **Streamlit**, **LangChain** e **Groq**, utilizando o modelo **Qwen**.
 

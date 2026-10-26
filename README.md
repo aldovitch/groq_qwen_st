@@ -1,6 +1,6 @@
 # Chat Qwen com Streamlit, LangChain e Groq
 
-Aplicação de chat desenvolvida com **Streamlit**, **LangChain** e **Groq**, utilizando o modelo **Qwen**.
+Aplicação de chat desenvolvido com **Streamlit**, **LangChain** e **Groq**, utilizando o modelo **Qwen**.
 
 O projeto demonstra uma implementação simples de uma interface conversacional com histórico de mensagens mantido durante a sessão.
 

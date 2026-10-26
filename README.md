@@ -25,8 +25,7 @@ O projeto utiliza o modelo:
 Clone o repositório:
 
 ```bash
-git clone <URL_DO_REPOSITORIO>
-cd <NOME_DO_REPOSITORIO>
+git clone https://github.com/aldovitch/groq_qwen_st
 ```
 
 Crie e ative um ambiente virtual:
